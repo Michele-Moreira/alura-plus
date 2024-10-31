@@ -119,11 +119,7 @@ body {
 
 .rodape {
     text-align: center;
-    margin: 8em 0em 8em 0em;
-}
-
-.rodape__logo {
-    margin-bottom: 2em;
+    margin: 5em 3em;
 }
 
 .rodape__lista {
